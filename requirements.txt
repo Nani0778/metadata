@@ -1,0 +1,8 @@
+pyrogram==2.0.83
+Tgcrypto
+ffmpeg-python
+rarfile
+ffmpeg
+requests
+heroku3
+aiohttp
